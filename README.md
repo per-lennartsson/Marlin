@@ -1,3 +1,8 @@
+# Links
+
+  - https://www.reddit.com/r/ender3/comments/e894j7/marlin_20x_guide_for_ender_3_using_skr_mini_e3_v12/
+  - https://www.reddit.com/r/ender3/comments/hymv70/marlin_20x_guide_skr_mini_e3_v12_ender_3/
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
